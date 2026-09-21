@@ -20,14 +20,14 @@ This GitHub profile documents my learning journey, projects, implementations, an
 
 <div align="center">
 
-## 🌐 Socials:
 <div align="center">
+
+# 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/parthjaiswal_21)
 [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/@ParthJa37599124)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:parthjaiswal792@gmail.com)
 
-</div>
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -47,7 +47,6 @@ This GitHub profile documents my learning journey, projects, implementations, an
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=white)
 
 </div>
-
 ---
 
 <div align="center">
