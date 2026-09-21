@@ -47,7 +47,7 @@ This GitHub profile documents my learning journey, projects, implementations, an
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=white)
 
 </div>
----
+
 
 <div align="center">
 
