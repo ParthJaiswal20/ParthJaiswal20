@@ -94,5 +94,6 @@ This GitHub profile documents my learning journey, projects, implementations, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ParthJaiswal20&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
 
-</div>
 ![snake gif](https://github.com/ParthJaiswal20/ParthJaiswal20/blob/output/github-snake-dark.svg)
+
+</div>
