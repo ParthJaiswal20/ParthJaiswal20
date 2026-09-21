@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello , <br>I am Parth Jaiswal , a  Computer Science Engineering student specializing in Artificial Intelligence, Machine Learning, and Robotics. I am building a strong foundation in programming, Data Structures and Algorithms, Machine Learning, and software development.<br><br>My work focuses on developing practical projects that help me understand how algorithms, data, and intelligent systems are applied to real-world problems. I work primarily with C++, Python, and modern machine learning tools and libraries.<br><br>I continuously improve my skills through hands-on projects, problem-solving, experimentation, and technical learning. My current areas of interest include Machine Learning, Deep Learning, Artificial Intelligence, Robotics, and AI research.<br><br>This GitHub profile documents my learning journey, projects, implementations, and technical progress as I work toward becoming a professional AI/ML Engineer.<br>
+Hello Visitor , <br>I am Parth Jaiswal , a  Computer Science Engineering student specializing in Artificial Intelligence, Machine Learning, and Robotics. I am building a strong foundation in programming, Data Structures and Algorithms, Machine Learning, and software development.<br><br>My work focuses on developing practical projects that help me understand how algorithms, data, and intelligent systems are applied to real-world problems. I work primarily with C++, Python, and modern machine learning tools and libraries.<br><br>I continuously improve my skills through hands-on projects, problem-solving, experimentation, and technical learning. My current areas of interest include Machine Learning, Deep Learning, Artificial Intelligence, Robotics, and AI research.<br><br>This GitHub profile documents my learning journey, projects, implementations, and technical progress as I work toward becoming a professional AI/ML Engineer.<br>
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@ Hello , <br>I am Parth Jaiswal , a  Computer Science Engineering student special
 ![](https://github-contributor-stats.vercel.app/api?username=ParthJaiswal20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ParthJaiswal20&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=ParthJaiswal20&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
