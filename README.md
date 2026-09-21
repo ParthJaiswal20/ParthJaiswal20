@@ -22,11 +22,17 @@ This GitHub profile documents my learning journey, projects, implementations, an
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/parthjaiswal_21)
-
-[![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/@ParthJa37599124)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:parthjaiswal792@gmail.com)
+<a href="https://instagram.com/parthjaiswal_21">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white">
+</a>
+&nbsp;
+<a href="https://x.com/@ParthJa37599124">
+<img src="https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:parthjaiswal792@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
@@ -81,16 +87,6 @@ This GitHub profile documents my learning journey, projects, implementations, an
 ### ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ParthJaiswal20&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
