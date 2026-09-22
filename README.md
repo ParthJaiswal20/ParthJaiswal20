@@ -57,7 +57,7 @@ This GitHub profile documents my learning journey, projects, implementations, an
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ParthJaiswal20&theme=github_dark&hide_border=true" />
+<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight" />
 
 <br/>
 
