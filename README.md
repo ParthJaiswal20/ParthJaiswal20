@@ -51,21 +51,21 @@ This GitHub profile documents my learning journey, projects, implementations, an
 
 <div align="center">
 
+<div align="center">
+
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.shion.dev/api?username=ParthJaiswal20&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
 
 <br/>
 
-<img src= "https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ParthJaiswal20&theme=tokyonight" />
 
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ParthJaiswal20&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 </div>
-
----
 
 <div align="center">
 
