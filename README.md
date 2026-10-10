@@ -80,7 +80,6 @@ This GitHub profile documents my learning journey, projects, implementations, an
 <div align="center">
 
 ![snake gif](https://github.com/ParthJaiswal20/ParthJaiswal20/blob/output/github-snake-dark.svg)
-
-![](https://komarev.com/ghpvc/?username=ParthJaiswal20)
+ <img src="https://komarev.com/ghpvc/?username=ParthJaiswal20&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" /> 
 
 </div>
